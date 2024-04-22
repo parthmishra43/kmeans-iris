@@ -1,1 +1,1 @@
-# kmeans-iris
+This code segment demonstrates using KMeans clustering algorithm to automatically create clusters in the Iris dataset. Initially, the Iris dataset is loaded and converted into a pandas DataFrame for easier manipulation. The data is then visualized using scatter plots to observe patterns. Subsequently, KMeans clustering is applied with the number of clusters set to 3, corresponding to the three species of Iris flowers
